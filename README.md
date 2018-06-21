@@ -11,6 +11,15 @@ RxRiddles
 * [Riddle9](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle9.kt) - Cancel an Observable when something has happened. For instance, stop polling when the user has been logged out.
 * [Riddle10](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle10.kt) - Get some user data and perform a network request with the user data and have both data accessible afterwards.
 * [Riddle11](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle11.kt) - Handle the click of a button right away but prevent double clicking by not handling multiple click events within a given time window.
+* [Riddle12](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle12.kt) - Getting a network error and you want to recover and show some default state.
+* [Riddle13](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle13.kt) - You only want to observe changes of a value but don't care if the same value has been emitted consecutively.
+* [Riddle14](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle14.kt) - Retry an operation for a number of times or until a valid error occurred.
+* [Riddle15](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle15.kt) - You have two sources of your data (cache & network request). You want to subscribe to both right away and keep the emission order.
+* **[Riddle16](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle16.kt) - Need to understand**
+* [Riddle17](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle17.kt) - Reactive types are lazy by default. Hence you might also want to get the value upon the subscription and not execution time.Reactive types are lazy by default. Hence you might also want to get the value upon the subscription and not execution time.
+* [Riddle18] - You have multiple sources and want to get the data from either one and then be consistent and not switch between multiple sources.
+* **[Riddle19] - Need to understand**
+* [Riddle20] - There something you want to execute and in your UI you have multiple trigger points.
 
 # License
 
