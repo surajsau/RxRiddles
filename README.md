@@ -20,6 +20,7 @@ RxRiddles
 * [Riddle18](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle18.kt) - You have multiple sources and want to get the data from either one and then be consistent and not switch between multiple sources.
 * **[Riddle19](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle19.kt) - Need to understand**
 * [Riddle20](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle20.kt) - There something you want to execute and in your UI you have multiple trigger points.
+* [Riddle21](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle21.kt) - Sometimes you can't do everything reactively and need to break out of it.
 
 # License
 
