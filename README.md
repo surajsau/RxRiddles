@@ -17,9 +17,9 @@ RxRiddles
 * [Riddle15](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle15.kt) - You have two sources of your data (cache & network request). You want to subscribe to both right away and keep the emission order.
 * **[Riddle16](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle16.kt) - Need to understand**
 * [Riddle17](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle17.kt) - Reactive types are lazy by default. Hence you might also want to get the value upon the subscription and not execution time.Reactive types are lazy by default. Hence you might also want to get the value upon the subscription and not execution time.
-* [Riddle18] - You have multiple sources and want to get the data from either one and then be consistent and not switch between multiple sources.
-* **[Riddle19] - Need to understand**
-* [Riddle20] - There something you want to execute and in your UI you have multiple trigger points.
+* [Riddle18](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle18.kt) - You have multiple sources and want to get the data from either one and then be consistent and not switch between multiple sources.
+* **[Riddle19](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle19.kt) - Need to understand**
+* [Riddle20](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle20.kt) - There something you want to execute and in your UI you have multiple trigger points.
 
 # License
 
