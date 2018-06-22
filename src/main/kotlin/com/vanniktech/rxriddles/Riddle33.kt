@@ -1,6 +1,7 @@
 package com.vanniktech.rxriddles
 
 import io.reactivex.Completable
+import io.reactivex.Observable
 import io.reactivex.Scheduler
 
 object Riddle33 {
@@ -9,7 +10,5 @@ object Riddle33 {
    *
    * Use case: You want to shift work to a particular [Scheduler].
    */
-  fun solve(source: Completable, scheduler: Scheduler): Completable {
-    TODO()
-  }
+  fun solve(source: Completable, scheduler: Scheduler): Completable = source.observeOn(scheduler)
 }

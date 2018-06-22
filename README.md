@@ -21,6 +21,19 @@ RxRiddles
 * **[Riddle19](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle19.kt) - Need to understand**
 * [Riddle20](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle20.kt) - There something you want to execute and in your UI you have multiple trigger points.
 * [Riddle21](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle21.kt) - Sometimes you can't do everything reactively and need to break out of it.
+* [Riddle22] - Group related data while skipping over some of it.
+* [Riddle23] - You get some data from a bad source and know for sure it's of a certain type that you require.
+* [Riddle24] - Know how many emissions have been sent out.
+* [Riddle25] - Continue with data if the stream is empty.
+* [Riddle26] - Delay emission of events to simulate some indication.
+* [Riddle27] - Add some logging.
+* [Riddle28] - Add some logging.
+* [Riddle29] - Add some logging.
+* [Riddle30] - Add some logging.
+* [Riddle31] - You want to re-run a certain Observable a number of times.
+* [Riddle32] - You want to terminate the given reactive type and stop the operation.
+* [Riddle33] - You want to shift work to a particular **[Scheduler]**.
+* [Riddle35] - You have a local cache and only want to hit the network if the cache misses.
 
 # License
 
