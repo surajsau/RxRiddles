@@ -33,7 +33,10 @@ RxRiddles
 * [Riddle31] - You want to re-run a certain Observable a number of times.
 * [Riddle32] - You want to terminate the given reactive type and stop the operation.
 * [Riddle33] - You want to shift work to a particular **[Scheduler]**.
+* [Riddle34] - You want to shift work to a particular **[Scheduler]**.
 * [Riddle35] - You have a local cache and only want to hit the network if the cache misses.
+* [Riddle36] - You want the user-input to trigger a search request for the entered text but only when no changes have been made for a pre-determined time to avoid unnecessary requests.
+* [Riddle37] - You want to recover from an expected error and map them to a particular result.
 
 # License
 
