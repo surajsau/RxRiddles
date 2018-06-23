@@ -21,22 +21,24 @@ RxRiddles
 * **[Riddle19](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle19.kt) - Need to understand**
 * [Riddle20](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle20.kt) - There something you want to execute and in your UI you have multiple trigger points.
 * [Riddle21](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle21.kt) - Sometimes you can't do everything reactively and need to break out of it.
-* [Riddle22] - Group related data while skipping over some of it.
-* [Riddle23] - You get some data from a bad source and know for sure it's of a certain type that you require.
-* [Riddle24] - Know how many emissions have been sent out.
-* [Riddle25] - Continue with data if the stream is empty.
-* [Riddle26] - Delay emission of events to simulate some indication.
-* [Riddle27] - Add some logging.
-* [Riddle28] - Add some logging.
-* [Riddle29] - Add some logging.
-* [Riddle30] - Add some logging.
-* [Riddle31] - You want to re-run a certain Observable a number of times.
-* [Riddle32] - You want to terminate the given reactive type and stop the operation.
-* [Riddle33] - You want to shift work to a particular **[Scheduler]**.
-* [Riddle34] - You want to shift work to a particular **[Scheduler]**.
-* [Riddle35] - You have a local cache and only want to hit the network if the cache misses.
-* [Riddle36] - You want the user-input to trigger a search request for the entered text but only when no changes have been made for a pre-determined time to avoid unnecessary requests.
-* [Riddle37] - You want to recover from an expected error and map them to a particular result.
+* [Riddle22](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle22.kt) - Group related data while skipping over some of it.
+* [Riddle23](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle23.kt) - You get some data from a bad source and know for sure it's of a certain type that you require.
+* [Riddle24](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle24.kt) - Know how many emissions have been sent out.
+* [Riddle25](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle25.kt) - Continue with data if the stream is empty.
+* [Riddle26](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle26.kt) - Delay emission of events to simulate some indication.
+* [Riddle27](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle27.kt) - Add some logging.
+* [Riddle28](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle28.kt) - Add some logging.
+* [Riddle29](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle29.kt) - Add some logging.
+* [Riddle30](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle30.kt) - Add some logging.
+* [Riddle31](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle31.kt) - You want to re-run a certain Observable a number of times.
+* [Riddle32](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle32.kt) - You want to terminate the given reactive type and stop the operation.
+* [Riddle33](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle33.kt) - You want to shift work to a particular **[Scheduler]**.
+* [Riddle34](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle34.kt) - You want to shift work to a particular **[Scheduler]**.
+* [Riddle35](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle35.kt) - You have a local cache and only want to hit the network if the cache misses.
+* [Riddle36](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle36.kt) - You want the user-input to trigger a search request for the entered text but only when no changes have been made for a pre-determined time to avoid unnecessary requests.
+* [Riddle37](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle37.kt) - You want to recover from an expected error and map them to a particular result.
+* [Riddle100](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle100.kt) - Double click detection mechanism for a button.
+* [Riddle101](https://github.com/surajsau/RxRiddles/blob/master/src/main/kotlin/com/vanniktech/rxriddles/Riddle101.kt) - You have some countdown functionality and want to display how many seconds are left.
 
 # License
 
